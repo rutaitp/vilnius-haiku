@@ -1,0 +1,16 @@
+body {
+	background-color: #DC143C;
+}
+.text {
+	color: white;
+	font-family: Courier;
+	font-size: 25px;
+}
+
+#display_haiku{
+	text-align: center;
+	display: block;
+	padding-top: 25%;
+ 	margin-left: auto;
+ 	margin-right: auto;
+}
